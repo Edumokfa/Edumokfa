@@ -1,5 +1,5 @@
 - 👋 Oi, Me chamo Eduardo Mokfa
-- <img height="30%" src="https://cdn3.iconfinder.com/data/icons/material-chromatic-white-drives/128/drive_white_windows_purple.png" > Atualmente trabalho com Java Web
+- <img height="10em" src="https://cdn3.iconfinder.com/data/icons/material-chromatic-white-drives/128/drive_white_windows_purple.png" > Atualmente trabalho com Java Web
 - 🌱 Estudando Ciências da Computação
 
 <div>
