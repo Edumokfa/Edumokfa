@@ -4,12 +4,8 @@
 
 <div>
     <a href="https://github.com/Edumokfa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edumokfa&show_icons=true&theme=dark">
-    <img height="180em" src="https://media.giphy.com/media/BM19iGI2xOuiQlaOAv/giphy.gif">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edumokfa&show_icons=true&theme=radical">
+    <br/>
+    <img height="180em" src="https://media.giphy.com/media/SSWHtGBHHJjvZwL7Jx/giphy.gif">
     
 </div>
-
-<!---
-Edumokfa/Edumokfa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
