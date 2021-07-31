@@ -1,4 +1,4 @@
-- <img height="30em" src="file:///C:/Users/Eduardo/Downloads/iconfinder-icon.svg" >Oi, Me chamo Eduardo Vitor Mokfa
+- <img height="30em" src="iconfinder-icon.svg" >Oi, Me chamo Eduardo Vitor Mokfa
 - <img height="30em" src="https://cdn3.iconfinder.com/data/icons/material-chromatic-white-drives/128/drive_white_windows_purple.png" > Atualmente trabalho com Java Web
 - 🌱 Estudando Ciências da Computação
 
