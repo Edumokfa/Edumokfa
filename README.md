@@ -2,7 +2,7 @@
 - 👀 Trabalho com Java Web
 - 🌱 Estudando Ciências da Computação
 
-<div style="background-image: url(https://image.shutterstock.com/image-illustration/bright-purple-blurred-background-center-260nw-500032798.jpg");background-repeat: no-repeat;">
+<div>
     <a href="https://github.com/Edumokfa">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edumokfa&show_icons=true&theme=synthwave">
     <img height="380em" src="https://media.giphy.com/media/SSWHtGBHHJjvZwL7Jx/giphy.gif" align="right">
