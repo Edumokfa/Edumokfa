@@ -1,6 +1,6 @@
 - <img height="30em" src="iconfinder-icon.svg" >Oi, Me chamo Eduardo Vitor Mokfa
 - <img height="30em" src="https://cdn3.iconfinder.com/data/icons/material-chromatic-white-drives/128/drive_white_windows_purple.png" > Atualmente trabalho com Java Web
-- <img height="30em" src="https://cdn3.iconfinder.com/data/icons/seo-marketing-19/32/SEO-13-512.png" > Estudando Ciências da Computação
+- <img height="30em" src="https://cdn3.iconfinder.com/data/icons/seo-marketing-19/32/SEO-13-512.png" > Estudando Ciência da Computação
 
 <div>
     <a href="https://github.com/Edumokfa">
